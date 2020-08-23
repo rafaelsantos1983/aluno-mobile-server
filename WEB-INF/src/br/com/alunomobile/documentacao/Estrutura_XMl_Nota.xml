@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<instituicao>
+     <aluno matricula="">
+            <disciplina codigo="">
+  	          <avaliacao tipo="">
+                        <valor></valor>
+                  </avaliacao>
+            </disciplina>
+      </aluno>
+</instituicao>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<CONEXOES>
+    <conexao title="EBDFV">
+
+        <jdbc-database-url>jdbc:odbc:DDEBDFV</jdbc-database-url>
+        <jdbc-driver-name>sun.jdbc.odbc.JdbcOdbcDriver</jdbc-driver-name>
+        <jdbc-login-name></jdbc-login-name>
+        <jdbc-password-name></jdbc-password-name>
+        <jdb-begin-connection>1</jdb-begin-connection>
+        <jdb-max-connection>3</jdb-max-connection>
+
+    </conexao>
+
+    <conexao title="onlinesds">
+
+        <jdbc-database-url>jdbc:odbc:SDS</jdbc-database-url>
+        <jdbc-driver-name>sun.jdbc.odbc.JdbcOdbcDriver</jdbc-driver-name>
+        <jdbc-login-name></jdbc-login-name>
+        <jdbc-password-name>masterkey</jdbc-password-name>
+        <jdb-begin-connection>1</jdb-begin-connection>
+        <jdb-max-connection>2</jdb-max-connection>
+
+    </conexao>
+
+    <conexao title="FV">
+
+        <jdbc-database-url>jdbc:postgresql:FV</jdbc-database-url>
+        <jdbc-driver-name>org.postgresql.Driver</jdbc-driver-name>
+        <jdbc-login-name>postgres</jdbc-login-name>
+        <jdbc-password-name></jdbc-password-name>
+
+    </conexao>
+
+</CONEXOES>

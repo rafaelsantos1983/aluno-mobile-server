@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<instituicao>
+     <aluno matricula="">
+            <senha>senha_do_aluno</senha>
+            <disciplina codigo="">
+  	          <nome></nome>
+            </disciplina>
+			<curso codigo="">
+				<nome></nome>
+			</curso>
+     </aluno>
+</instituicao>

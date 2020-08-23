@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<instituicao>
+      <aluno matricula="">
+            <disciplina codigo="">
+                 <falta mes="">
+                       <quantidade></quantidade>
+                 </falta>
+            </disciplina>
+      </aluno>
+</instituicao>
